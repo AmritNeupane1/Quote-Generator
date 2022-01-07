@@ -91,7 +91,7 @@ button:active{
     100% { transform: rotate(360deg); }
   }
 @media screen and (max-width:1000px){
-    .quote.container{
+    .quote-container{
         margin:auto 10px;
     }
 
